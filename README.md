@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
 ## Languages & Tools.
-
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" height='30' > <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height='35' > <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" height='35' >
 
 
 ## Skills and Experience
