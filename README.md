@@ -7,8 +7,8 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/@itsSharma2230)  
 
 
-- 🔭 I’m currently working on iOS Mobile Application Developer for Stealth Technocrats
-- 🌱 I’m currently learning SwiftUI
+- 🔭 I’m currently working on iOS Mobile Application Developer for Code Brew lab
+- 🌱 I’m currently learning SwiftUI, flutter
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening songs every day.
 
