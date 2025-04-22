@@ -21,11 +21,14 @@
 💻 XCode
 🖥 HTML, CSS
 
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8028b1edcc7f0d4c5cde2e2452b47629157cda81a83115087efed8b7434a3ab5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f6a6972612f6a6972612d6f726967696e616c2d776f72646d61726b2e737667"><img height="50" src="https://camo.githubusercontent.com/8028b1edcc7f0d4c5cde2e2452b47629157cda81a83115087efed8b7434a3ab5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f6a6972612f6a6972612d6f726967696e616c2d776f72646d61726b2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" style="max-width: 100%;"></a>
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/itsSharma2230?style=social)
 
 <a href="https://www.buymeacoffee.com/34u73lyc8o" rel="nofollow">
  <img align="center" src="https://camo.githubusercontent.com/af57548d9718bcbbfbc814feb621e5d19ae10aa23cf7b297b55c26d0a8a55470/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4275792532304d6525323061253230436f666665652d6666646430303f7374796c653d666f722d7468652d6261646765266c6f676f3d6275792d6d652d612d636f66666565266c6f676f436f6c6f723d626c61636b" alt="By me a coffee" style="max-width: 100%;">
 </a>
+
 
 
 <p align="left"> 
