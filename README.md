@@ -1,50 +1,67 @@
-### Hola, I am Akshay Sharma 👋
+<h1 align="center">Hola, I'm Akshay Sharma 👋</h1>
+<h3 align="center">🚀 Senior iOS Developer | 5+ Years Experience | Swift • SwiftUI • Xcode • Firebase • App Store Deployment</h3>
 
+---
 
-## Connect With me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30' style="color: white">](https://www.linkedin.com/in/akshay-sharma-351920118/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30' style="color: white">](https://www.instagram.com/official_akshaysharma.as/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30' style="color: white">](https://twitter.com/@itsSharma2230)  
-
-
-- 🔭 I’m currently working on iOS Mobile Application Developer for Code Brew lab
-- 🌱 I’m currently learning SwiftUI, flutter
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours listening songs every day.
-
-## Languages & Tools.
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" height='30' > <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height='35' > <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" height='35' >
-
-
-## Skills and Experience
-💫 Swift
-💻 XCode
-🖥 HTML, CSS
-
-<animated-image data-catalyst="" style="width: 100%;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4a5f2a185ba8add838b82fdf3904bc8e5c0723b56f44c60099256a3e8d038977/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/4a5f2a185ba8add838b82fdf3904bc8e5c0723b56f44c60099256a3e8d038977/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966" height="20" data-canonical-src="https://i.imgur.com/dBaSKWF.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
-        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/4a5f2a185ba8add838b82fdf3904bc8e5c0723b56f44c60099256a3e8d038977/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966" target="_blank">
-
-<animated-image data-catalyst="" style="width: 100%;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4a5f2a185ba8add838b82fdf3904bc8e5c0723b56f44c60099256a3e8d038977/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/4a5f2a185ba8add838b82fdf3904bc8e5c0723b56f44c60099256a3e8d038977/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966" height="20" data-canonical-src="https://i.imgur.com/dBaSKWF.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
-        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/4a5f2a185ba8add838b82fdf3904bc8e5c0723b56f44c60099256a3e8d038977/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966" target="_blank">
-        
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8028b1edcc7f0d4c5cde2e2452b47629157cda81a83115087efed8b7434a3ab5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f6a6972612f6a6972612d6f726967696e616c2d776f72646d61726b2e737667"><img height="50" src="https://camo.githubusercontent.com/8028b1edcc7f0d4c5cde2e2452b47629157cda81a83115087efed8b7434a3ab5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f6a6972612f6a6972612d6f726967696e616c2d776f72646d61726b2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" style="max-width: 100%;"></a>
-
-![Twitter Follow](https://img.shields.io/twitter/follow/itsSharma2230?style=social)
-
-<a href="https://www.buymeacoffee.com/34u73lyc8o" rel="nofollow">
- <img src="https://camo.githubusercontent.com/7b8f7343bfc6e3c65c7901846637b603fd812f1a5f768d8b0572558bde859eb9/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d79656c6c6f772e706e67" alt="Buy Me A Coffee" style="height: 60px; width: 217px; max-width: 100%;" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png">
-</a>
-
-
-
-<p align="left"> 
-  <b>Visitors count</b><br>
-  <img src="https://profile-counter.glitch.me/AkshaySharma2230/count.svg" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AkshaySharma2230&label=Profile%20views&color=blue&style=flat" alt="AkshaySharma2230" />
 </p>
 
+### 👨‍💻 About Me
+
+- 🔭 Currently working as a **Senior iOS Developer** at **Code Brew Labs**
+- 📱 Deployed & managed **10+ iOS applications** live on the App Store
+- 🌱 Exploring **SwiftUI**, **Flutter**, and **Cross-Platform Development**
+- 💼 Strong expertise in **Xcode**, **UIKit**, **MVVM**, **Firebase**, and **Third-party integrations**
+- ⚡ Fun fact: I code better with good music – 🎧 12 hours of it daily!
+
+---
+
+### 🛠️ Tech Stack
+
+![Swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white&style=for-the-badge)
+![Xcode](https://img.shields.io/badge/-Xcode-147EFB?logo=xcode&logoColor=white&style=for-the-badge)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-000000?logo=apple&logoColor=white&style=for-the-badge)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AkshaySharma2230&show_icons=true&theme=tokyonight&count_private=true" alt="Akshay Sharma's GitHub Stats" />
+</p>
+
+---
+
+### 📲 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/akshay-sharma-351920118/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.instagram.com/official_akshaysharma.as/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://twitter.com/itsSharma2230" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+### ☕ Support Me
+
+<a href="https://www.buymeacoffee.com/34u73lyc8o" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217" />
+</a>
+
+---
+
 <div align="center">
-  Show some ❤️ by starring some of the repositories!		
- </div>
+  ⭐️ If you like my work, show some love by starring my repositories!
+</div>
 
