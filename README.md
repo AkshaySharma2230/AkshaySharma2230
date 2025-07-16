@@ -26,7 +26,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
-
+![Trello](https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge)
 ---
 
 ### 📈 GitHub Stats
