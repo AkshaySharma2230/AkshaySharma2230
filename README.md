@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working as a **Senior iOS Developer** at **Code Brew Labs**
+- 🔭 Currently working as a **Senior iOS Developer**
 - 📱 Deployed & managed **10+ iOS applications** live on the App Store
 - 🌱 Exploring **SwiftUI**, **Flutter**, and **Cross-Platform Development**
 - 💼 Strong expertise in **Xcode**, **UIKit**, **MVVM**, **Firebase**, and **Third-party integrations**
