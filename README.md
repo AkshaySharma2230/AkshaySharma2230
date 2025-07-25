@@ -1,6 +1,6 @@
 <h1 align="center">Hola, I'm Akshay Sharma 👋</h1>
 <h3 align="center">🚀 Senior iOS Developer | 5+ Years Experience | Swift • SwiftUI • Xcode • Firebase • App Store Deployment</h3>
-
+<img align="right" alt="Coding" width="400" src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 ---
 
 <p align="center">
