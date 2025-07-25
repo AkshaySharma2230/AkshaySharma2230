@@ -14,7 +14,7 @@
 - 🌱 Exploring **SwiftUI**, **Flutter**, and **Cross-Platform Development**
 - 💼 Strong expertise in **Xcode**, **UIKit**, **MVVM**, **Firebase**, and **Third-party integrations**
 - ⚡ Fun fact: I code better with good music – 🎧 12 hours of it daily!
-
+- 🌱 I’m currently learning **SwiftUI & Flutter**
 ---
 
 ### 🛠️ Tech Stack
