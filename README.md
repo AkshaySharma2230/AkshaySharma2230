@@ -3,9 +3,10 @@
 <img align="right" alt="Coding" width="400" src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=AkshaySharma2230&label=Profile%20views&color=blue&style=flat" alt="AkshaySharma2230" />
 </p>
+---
 
 ### 👨‍💻 About Me
 
