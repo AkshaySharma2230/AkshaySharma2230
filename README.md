@@ -40,15 +40,9 @@
 ### 📲 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/akshay-sharma-%EF%A3%BF-351920118/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://www.instagram.com/zero1_code/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://twitter.com/itsSharma2230" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
-  </a>
+<a href="https://twitter.com/itsSharma2230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akshay-sharma-%EF%A3%BF-351920118/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
+<a href="https://www.instagram.com/zero1_code/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
 </p>
 
 ---
