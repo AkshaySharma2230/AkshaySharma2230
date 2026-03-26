@@ -10,8 +10,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=4F8EF7&center=true&vCenter=true&width=500&lines=Senior+iOS+Developer+%F0%9F%93%B1;Swift+%E2%80%A2+SwiftUI+%E2%80%A2+UIKit+%E2%80%A2+Combine;10%2B+Apps+Live+on+the+App+Store+%F0%9F%9A%80;MaasErp+Solutions+Pvt+Ltd)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=AkshaySharma2230&label=Profile+Views&color=4F8EF7&style=flat-square" alt="profile views" />
-
 </div>
 
 ---
