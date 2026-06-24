@@ -1,6 +1,6 @@
 <div align="center">
 
-![Akshay Sharma Banner](https://capsule-render.vercel.app/api?type=venom&height=220&text=Akshay%20Sharma&fontSize=65&color=0:0d1117,50:0d2137,100:0d1117&fontColor=4F8EF7&stroke=4F8EF7&strokeWidth=1.5&desc=Senior%20iOS%20Developer%20%7C%20Swift%20%E2%80%A2%20SwiftUI%20%E2%80%A2%20Firebase&descSize=19&descAlignY=73&descAlign=50&animation=fadeIn&fontAlignY=42)
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,100:4F8EF7&text=Akshay%20Sharma&fontSize=60&fontColor=FFFFFF&animation=fadeIn&desc=Senior%20iOS%20Developer%20|%20Swift%20|%20SwiftUI%20|%20Firebase&descAlignY=70)
 
 </div>
 
