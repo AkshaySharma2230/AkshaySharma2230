@@ -136,3 +136,9 @@ let akshay = iOSDeveloper(
 ```
 
 </div>
+
+## Features
+- Login
+- Push Notifications
+- Firebase
+- Dark Mode
