@@ -1,12 +1,19 @@
 <div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%">
+</div>
+---
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,100:4F8EF7&text=Akshay%20Sharma&fontSize=60&fontColor=FFFFFF&animation=fadeIn&desc=Senior%20iOS%20Developer%20|%20Swift%20|%20SwiftUI%20|%20Firebase&descAlignY=70)
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,100:00FF41&text=Akshay%20Sharma&fontSize=70&fontColor=00FF41&animation=twinkling" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=%3E+Senior+iOS+Developer;%3E+Swift+%7C+SwiftUI+%7C+UIKit;%3E+Firebase+%7C+MVVM;%3E+Building+Amazing+iOS+Apps" />
 
 </div>
 
 ---
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ### 👋 Hey there, I'm Akshay!
 
