@@ -1,14 +1,3 @@
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%">
-</div>
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,100:00FF41&text=Akshay%20Sharma&fontSize=70&fontColor=00FF41&animation=twinkling" />
-
-<br>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=%3E+Senior+iOS+Developer;%3E+Swift+%7C+SwiftUI+%7C+UIKit;%3E+Firebase+%7C+MVVM;%3E+Building+Amazing+iOS+Apps" />
 
 </div>
