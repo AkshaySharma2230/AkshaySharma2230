@@ -5,11 +5,25 @@
 ![](https://komarev.com/ghpvc/?username=AkshaySharma2230)  
 
 
-🏢 **Senior iOS Developer** @ MaasErp Solutions Pvt Ltd  
-📱 **10+ apps** live on the App Store — built, shipped, and maintained  
-🧠 Currently leveling up in **Modular Architecture & TCA**  
-🔧 **Xcode · MVVM · Firebase · CI/CD · Combine**  
+<div align="left">
+
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+### 👋 Hey there, I'm Akshay Kumar Sharma!
+
+🏢 **Senior iOS Developer** @ MaasErp Solutions Pvt Ltd
+
+📱 **10+ Apps** live on the App Store — built, shipped, and maintained
+
+🧠 Currently leveling up in **Modular Architecture & TCA**
+
+🔧 **Xcode · MVVM · Firebase · CI/CD · Combine**
+
 🎧 Fun fact: *Codes best with 12 hours of music daily*
+
+<br clear="right"/>
+
+</div>
 
 <br clear="right"/>
 
