@@ -1,14 +1,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=%3E+Senior+iOS+Developer;%3E+Swift+%7C+SwiftUI+%7C+UIKit;%3E+Firebase+%7C+MVVM;%3E+Building+Amazing+iOS+Apps" />
 
-</div>
+</div>  
 
----
+---  
 
-### 👋 Hey there, I'm Akshay!
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=4F8EF7&width=440&lines=Senior+iOS+Developer+%F0%9F%93%B1;Swift+%E2%80%A2+SwiftUI+%E2%80%A2+UIKit+%E2%80%A2+Combine;10%2B+Apps+Live+on+the+App+Store+%F0%9F%9A%80;End-to-End+App+Lifecycle+Owner+%F0%9F%94%81;Building+at+MaasErp+Solutions+Pvt+Ltd)](https://git.io/typing-svg)
-
-<br/>
+### 👋 Hey there, I'm Akshay Kumar Sharma!
 
 🏢 **Senior iOS Developer** @ MaasErp Solutions Pvt Ltd  
 📱 **10+ apps** live on the App Store — built, shipped, and maintained  
@@ -20,38 +16,63 @@
 
 ---
 
-## 🧰 Tech Arsenal
+<h3>📱 When I code, I rely on</h3>
 
-<div align="center">
+<p>
+  <!-- Languages -->
+  <img alt="Swift" src="https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white" />
+  <img alt="Objective-C" src="https://img.shields.io/badge/-Objective--C-438EFF?style=flat-square&logo=apple&logoColor=white" />
 
-### 📱 iOS Core
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-157AFB?style=for-the-badge&logo=swift&logoColor=white)
-![UIKit](https://img.shields.io/badge/UIKit-2C5BB4?style=for-the-badge&logo=apple&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?style=for-the-badge&logo=apple&logoColor=white)
+  <!-- Apple Frameworks -->
+  <img alt="UIKit" src="https://img.shields.io/badge/-UIKit-2396F3?style=flat-square&logo=apple&logoColor=white" />
+  <img alt="SwiftUI" src="https://img.shields.io/badge/-SwiftUI-0066FF?style=flat-square&logo=swift&logoColor=white" />
+  <img alt="Foundation" src="https://img.shields.io/badge/-Foundation-000000?style=flat-square&logo=apple&logoColor=white" />
+  <img alt="Core Data" src="https://img.shields.io/badge/-Core_Data-5E5CE6?style=flat-square&logo=apple&logoColor=white" />
+  <img alt="Core Animation" src="https://img.shields.io/badge/-Core_Animation-0A84FF?style=flat-square&logo=apple&logoColor=white" />
 
-### 🏗️ Architecture & Patterns
-![MVVM](https://img.shields.io/badge/MVVM-4F8EF7?style=for-the-badge&logoColor=white)
-![Combine](https://img.shields.io/badge/Combine-FF6B6B?style=for-the-badge&logo=apple&logoColor=white)
-![Core Data](https://img.shields.io/badge/Core_Data-6C47A0?style=for-the-badge&logo=apple&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+  <!-- Architecture -->
+  <img alt="MVVM" src="https://img.shields.io/badge/-MVVM-FF6F00?style=flat-square" />
+  <img alt="MVC" src="https://img.shields.io/badge/-MVC-4CAF50?style=flat-square" />
+  <img alt="VIPER" src="https://img.shields.io/badge/-VIPER-7B1FA2?style=flat-square" />
 
-### ⚙️ DevOps & Tooling
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=black)
-![TestFlight](https://img.shields.io/badge/TestFlight-147EFB?style=for-the-badge&logo=apple&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  <!-- Networking -->
+  <img alt="REST API" src="https://img.shields.io/badge/-REST_API-009688?style=flat-square" />
+  <img alt="URLSession" src="https://img.shields.io/badge/-URLSession-007AFF?style=flat-square&logo=apple&logoColor=white" />
+  <img alt="Alamofire" src="https://img.shields.io/badge/-Alamofire-EF4B4B?style=flat-square" />
+  <img alt="Socket.IO" src="https://img.shields.io/badge/-Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" />
 
-</div>
+  <!-- Firebase -->
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img alt="Firestore" src="https://img.shields.io/badge/-Firestore-FFA000?style=flat-square&logo=firebase&logoColor=white" />
+  <img alt="FCM" src="https://img.shields.io/badge/-Push_Notifications-DD2C00?style=flat-square&logo=firebase&logoColor=white" />
+
+  <!-- Database -->
+  <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+
+  <!-- Version Control -->
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img alt="Bitbucket" src="https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white" />
+
+  <!-- Tools -->
+  <img alt="Xcode" src="https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" />
+  <img alt="App Store Connect" src="https://img.shields.io/badge/-App_Store_Connect-0D96F6?style=flat-square&logo=apple&logoColor=white" />
+  <img alt="TestFlight" src="https://img.shields.io/badge/-TestFlight-0D96F6?style=flat-square&logo=apple&logoColor=white" />
+  <img alt="CocoaPods" src="https://img.shields.io/badge/-CocoaPods-EE3322?style=flat-square&logo=cocoapods&logoColor=white" />
+  <img alt="Swift Package Manager" src="https://img.shields.io/badge/-Swift_Package_Manager-FA7343?style=flat-square&logo=swift&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+
+  <!-- CI/CD -->
+  <img alt="Fastlane" src="https://img.shields.io/badge/-Fastlane-00F200?style=flat-square" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+</p>  
 
 ---
 
 ## 🚀 Impact at a Glance
 
-<div align="center">
+<div align="left">
 
 | 🏆 Achievement | 💡 Detail |
 |:---|:---|
@@ -66,31 +87,30 @@
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkshaySharma2230&theme=tokyo-night&hide_border=true&area=true&custom_title=Akshay's%20Contribution%20Graph" width="100%" />
-</div>
+<p>If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺</p>
+<a href="[https://www.buymeacoffee.com/your_username](https://www.buymeacoffee.com/akshaysharma)" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 ---
 
 ## 🤝 Let's Connect
 
-<div align="center">
+<div align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-kumar-sharma-351920118/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-kumar-sharma-351920118/)  
+
 [![Twitter/X](https://img.shields.io/badge/Twitter%2FX-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ItsSharma2230)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-Support-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/akshaysharma)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkshaySharma2230)
 
 </div>
 
----
+---  
 
-<div align="center">
+<h3>My GitHub contributions summary</h3>
 
-### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=AkshaySharma2230&color=4F8EF7&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AkshaySharma2230&theme=dark&hide_border=true&card_width=480)](https://git.io/streak-stats)
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AkshaySharma2230&theme=dark&hide_border=true&card_width=480" alt="GitHub Streak" /></a>  
 
 ---
 
