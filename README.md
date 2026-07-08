@@ -110,8 +110,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AkshaySharma2230&theme=dark&hide_border=true&card_width=480)](https://git.io/streak-stats)
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AkshaySharma2230&theme=dark&hide_border=true&card_width=480" alt="GitHub Streak" /></a>  
-
 ---
 
 *⭐ If my work sparked an idea or saved you time — a star on the repo means a lot!*
