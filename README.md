@@ -1,10 +1,9 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=%3E+Senior+iOS+Developer;%3E+Swift+%7C+SwiftUI+%7C+UIKit;%3E+Firebase+%7C+MVVM;%3E+Building+Amazing+iOS+Apps" />
+### 👋 Hey there, I'm Akshay Kumar Sharma!  
 
-</div>  
+---
 
----  
+![](https://komarev.com/ghpvc/?username=AkshaySharma2230)  
 
-### 👋 Hey there, I'm Akshay Kumar Sharma!
 
 🏢 **Senior iOS Developer** @ MaasErp Solutions Pvt Ltd  
 📱 **10+ apps** live on the App Store — built, shipped, and maintained  
@@ -13,8 +12,6 @@
 🎧 Fun fact: *Codes best with 12 hours of music daily*
 
 <br clear="right"/>
-
----
 
 <h3>📱 When I code, I rely on</h3>
 
